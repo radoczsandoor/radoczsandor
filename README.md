@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @radoczsandor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...  coding in C#.
+- 🌱 I’m currently learning ... C#.
+- - 💞️ I’m looking to collaborate on ... anything, just let me know.
 - 📫 How to reach me:
 - Discord: @raven#5206
 
